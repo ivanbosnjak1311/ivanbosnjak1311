@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ivan Bosnjak
+# Ivan Bošnjak
 
 ### Graphic Designer & Web Developer
 
