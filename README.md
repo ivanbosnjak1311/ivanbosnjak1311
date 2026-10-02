@@ -53,10 +53,8 @@ See the full selection at [iv0dev.com](https://iv0dev.com).
 
 If you have a website, visual identity, or an idea that is still on paper, send me a few details:
 
-<ul>
-  <li>Email: <a href="mailto:ivanbosnjak1311@gmail.com">ivanbosnjak1311@gmail.com</a></li>
-  <li>Portfolio: <a href="https://iv0dev.com" target="_blank" rel="noopener noreferrer">iv0dev.com</a></li>
-  <li>Instagram: <a href="https://instagram.com/ivanbosnjak1311" target="_blank" rel="noopener noreferrer">@ivanbosnjak1311</a></li>
-  <li>TikTok: <a href="https://www.tiktok.com/@ivanbosnjak1311" target="_blank" rel="noopener noreferrer">@ivanbosnjak1311</a></li>
-</ul>
+- Email: [ivanbosnjak1311@gmail.com](mailto:ivanbosnjak1311@gmail.com)
+- Portfolio: [iv0dev.com](https://iv0dev.com)
+- Instagram: [@ivanbosnjak1311](https://instagram.com/ivanbosnjak1311)
+- TikTok: [@ivanbosnjak1311](https://www.tiktok.com/@ivanbosnjak1311)
 
