@@ -44,8 +44,8 @@ See the full selection at [iv0dev.com](https://iv0dev.com).
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=iv0dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ivan Bosnjak's GitHub stats" />
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iv0dev&layout=compact&theme=tokyonight&hide_border=true" alt="Ivan Bosnjak's most used languages" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=ivanbosnjak1311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ivan Bosnjak's GitHub stats" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ivanbosnjak1311&layout=compact&theme=tokyonight&hide_border=true" alt="Ivan Bosnjak's most used languages" />
 
 </div>
 
