@@ -1,55 +1,60 @@
 <div align="center">
 
-# 👋 Hi, I'm Ivan Bosnjak!
+# Ivan Bosnjak
 
-### 💻 Full-Stack Developer & 🎨 Creative Designer
+### Graphic Designer & Web Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Full-Stack+Web+Development;UI%2FUX+%26+Graphic+Design;3D+Modeling+%26+Visualization)](https://git.io/typing-svg)
+I work between visual design and frontend development. I like clear layouts, useful interfaces, and code that stays easy to maintain.
 
----
-
-### 📬 Let's Connect
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ivanbosnjak1311)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanbosnjak1311@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ivanbosnjak1311)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iv0dev.com-55f18b?style=for-the-badge&labelColor=090d13)](https://iv0dev.com)
+[![Instagram](https://img.shields.io/badge/Instagram-ivanbosnjak1311-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ivanbosnjak1311)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanbosnjak1311@gmail.com)
 
 </div>
 
----
+## About
 
-## 🚀 About Me
+I help turn rough ideas into websites and visual systems that people can understand without a manual.
 
-I build modern web applications and craft visual digital experiences. My focus is on combining clean backend logic with beautiful, intuitive user interfaces and 3D artwork.
+My work usually covers:
 
-- 🌐 Building modern full-stack web solutions (React, Node.js, Python).
-- 🎨 Designing UI/UX interfaces and graphic identities.
-- 📐 Creating 3D models and rendering scenes in Blender and Cinema 4D.
+- web design and responsive layouts
+- UI/UX design and prototyping
+- graphic design and visual identity
+- frontend development
 
----
+I am based in Nova Gradiška, Croatia, and work with clients in Croatia and abroad.
 
-## 🛠️ Tech Stack & Tools
+## Tools I use
 
-| Area | Tools & Technologies |
-| :--- | :--- |
-| **Frontend & UI/UX** | <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" /> |
-| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,py,postgres,mysql,mongodb,sqlite" /> |
-| **Design & 3D** | <img src="https://skillicons.dev/icons?i=ps,ai,blender" /> |
+| Area | Tools |
+| --- | --- |
+| Frontend | HTML, CSS, React |
+| Backend and scripts | Node.js, Python |
+| Design | Figma |
+| Data | MySQL |
 
----
+## Selected work
 
-## 📊 GitHub Stats
+The portfolio has a few different types of work: visual identities, portfolio websites, dashboards, landing pages, and frontend builds.
+
+See the full selection at [iv0dev.com](https://iv0dev.com).
+
+## GitHub activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=iv0dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iv0dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=iv0dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ivan Bosnjak's GitHub stats" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iv0dev&layout=compact&theme=tokyonight&hide_border=true" alt="Ivan Bosnjak's most used languages" />
 
 </div>
 
----
+## Contact
 
-<div align="center">
+If you have a website, visual identity, or an idea that is still on paper, send me a few details:
 
-### ✨ Thanks for visiting!
+- Email: [ivanbosnjak1311@gmail.com](mailto:ivanbosnjak1311@gmail.com)
+- Portfolio: [iv0dev.com](https://iv0dev.com)
+- Instagram: [@ivanbosnjak1311](https://instagram.com/ivanbosnjak1311)
+- TikTok: [@ivanbosnjak1311](https://www.tiktok.com/@ivanbosnjak1311)
 
-</div>
